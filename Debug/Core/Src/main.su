@@ -1,0 +1,11 @@
+core_cm0.h:623:22:__NVIC_EnableIRQ	16	static
+core_cm0.h:730:22:__NVIC_SetPriority	24	static
+main.c:52:6:GPIOA_Config	8	static
+main.c:62:6:EXTIB1_Config	8	static
+main.c:74:6:EXTIB2_Config	8	static
+main.c:89:6:EXTI4_15_IRQHandler	8	static
+main.c:99:6:EXTI2_3_IRQHandler	8	static
+main.c:114:5:main	8	static
+main.c:160:6:SystemClock_Config	80	static
+main.c:198:13:MX_GPIO_Init	48	static
+main.c:233:6:Error_Handler	8	static,ignoring_inline_asm
